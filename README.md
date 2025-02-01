@@ -11,6 +11,7 @@
 ## 💻 skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## 📚 학력 및 자격증
 `2022.10.30` ADSP 자격증 취득 <br>
