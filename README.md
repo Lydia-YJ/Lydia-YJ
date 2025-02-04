@@ -1,12 +1,6 @@
-# 안녕하세요~
-(소개란)
+# 안녕하세요
 
 <br><br>
-
-## ☝️ My values
-1️⃣ 배려 <br>
-2️⃣ 꼼꼼함 <br>
-3️⃣ 열정 <br>
 
 ## 💻 skills
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
