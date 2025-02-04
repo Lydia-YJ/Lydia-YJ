@@ -12,5 +12,5 @@ AI 엔지니어 • 데이터분석가를 꿈꾸는 취준생입니다. 👩🏻
 `2024.9.1~` 정보처리기사 자격증 취득 중 <br>
 
 ## 💬 SNS
-📱 lydialuv.v
+📱 lydialuv.v <br>
 ✉️ yuri12288@gmail.com
