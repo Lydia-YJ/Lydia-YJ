@@ -1,5 +1,5 @@
 # 안녕하세요
-AI 백엔드 엔지니어 • 데이터분석가를 꿈꾸는 취준생입니다. 👩🏻‍💻
+AI 엔지니어 • 데이터분석가를 꿈꾸는 취준생입니다. 👩🏻‍💻
 <br><br>
 
 ## 💻 skills
@@ -8,13 +8,10 @@ AI 백엔드 엔지니어 • 데이터분석가를 꿈꾸는 취준생입니다
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br>
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapil&logoColor=white">
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/rstudioide-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white">
 </div>
 
